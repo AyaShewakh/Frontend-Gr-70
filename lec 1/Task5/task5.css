@@ -1,0 +1,18 @@
+div{
+    height: 100px;
+    width: 300px;
+    background-color: rgb(46, 221, 221);
+    border-radius: 15%;
+    font-weight: 10px;
+    padding: 20px;
+    font-size: 10px;
+}
+.name{
+
+    border-bottom: red 5px dashed;
+}
+.choose{
+    background-color: rgb(66, 104, 173);
+    border-radius: 5%;
+
+}
