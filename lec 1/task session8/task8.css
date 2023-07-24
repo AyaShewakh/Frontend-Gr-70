@@ -1,0 +1,36 @@
+body{
+    height: 1000px;
+}
+
+
+.test1{
+    background-image: url(../images/pic2.jpg);
+    height: 100%;
+    background-size: fixed;
+
+}
+.test2{
+    background-color: #dfd6d662;
+    margin: 20px;
+    display:inline;
+
+}
+.title{
+    color: white;
+    font-weight: bold;
+    font-size:x-large;
+}
+.child{
+    background: transparent;
+    width: 1193px;
+    height: 90px;
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    
+}
+.submit{
+    width: 1193px;
+    color: red;
+    height: 50px; ;
+}
